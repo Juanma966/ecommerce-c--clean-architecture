@@ -1,0 +1,30 @@
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Application.deps.json
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Application.dll
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Application.pdb
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Domain.dll
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Domain.pdb
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.csproj.AssemblyReference.cache
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.AssemblyInfoInputs.cache
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.AssemblyInfo.cs
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Ap.4971B6B6.Up2Date
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.dll
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\refint\MiApp.Application.dll
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.pdb
+C:\Users\jluca\Downloads\backend\src\MiApp.Application\obj\Debug\net8.0\ref\MiApp.Application.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Application.deps.json
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Application.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Application.pdb
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Domain.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\bin\Debug\net8.0\MiApp.Domain.pdb
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.csproj.AssemblyReference.cache
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.AssemblyInfoInputs.cache
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.AssemblyInfo.cs
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Ap.4971B6B6.Up2Date
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\refint\MiApp.Application.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\MiApp.Application.pdb
+C:\Users\oro juan\desktop\backend\src\MiApp.Application\obj\Debug\net8.0\ref\MiApp.Application.dll

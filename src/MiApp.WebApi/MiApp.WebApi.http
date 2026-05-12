@@ -1,0 +1,53 @@
+@MiApp.WebApi_HostAddress = http://localhost:5014
+
+### Obtener todas las prendas
+GET {{MiApp.WebApi_HostAddress}}/api/prendas
+Accept: application/json
+
+### Obtener prenda por ID
+GET {{MiApp.WebApi_HostAddress}}/api/prendas/1
+Accept: application/json
+
+### Crear una prenda
+POST {{MiApp.WebApi_HostAddress}}/api/prendas
+Content-Type: application/json
+
+{
+  "nombre": "Remera Oversize 1892 CLUB",
+  "descripcion": "Remera de algodón 100% con estampa en la espalda",
+  "talle": "L",
+  "color": "Negro",
+  "categoria": "Remeras",
+  "precio": 18500,
+  "stockInicial": 15
+}
+
+### Obtener cliente por ID
+GET {{MiApp.WebApi_HostAddress}}/api/clientes/1
+Accept: application/json
+
+### Registrar un cliente
+POST {{MiApp.WebApi_HostAddress}}/api/clientes
+Content-Type: application/json
+
+{
+  "nombre": "Carlos",
+  "apellido": "Rodríguez",
+  "email": "crodriguez@ejemplo.com",
+  "telefono": "11-4567-8910"
+}
+
+### Obtener usuario por ID
+GET {{MiApp.WebApi_HostAddress}}/api/usuarios/1
+Accept: application/json
+
+### Crear un usuario
+POST {{MiApp.WebApi_HostAddress}}/api/usuarios
+Content-Type: application/json
+
+{
+  "nombreUsuario": "admin_sistema",
+  "email": "admin@miapp.com",
+  "password": "MiPassword123",
+  "rol": "Admin"
+}

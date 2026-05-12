@@ -1,0 +1,22 @@
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\bin\Debug\net8.0\MiApp.Domain.deps.json
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\bin\Debug\net8.0\MiApp.Domain.dll
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\bin\Debug\net8.0\MiApp.Domain.pdb
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.AssemblyInfo.cs
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.dll
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\refint\MiApp.Domain.dll
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.pdb
+C:\Users\jluca\Downloads\backend\src\MiApp.Domain\obj\Debug\net8.0\ref\MiApp.Domain.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\bin\Debug\net8.0\MiApp.Domain.deps.json
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\bin\Debug\net8.0\MiApp.Domain.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\bin\Debug\net8.0\MiApp.Domain.pdb
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.AssemblyInfo.cs
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\refint\MiApp.Domain.dll
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\MiApp.Domain.pdb
+C:\Users\oro juan\desktop\backend\src\MiApp.Domain\obj\Debug\net8.0\ref\MiApp.Domain.dll
