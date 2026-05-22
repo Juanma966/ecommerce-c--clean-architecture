@@ -22,15 +22,8 @@ public class UsuariosController : ControllerBase
     [HttpGet("{id}")]
     public async Task<ActionResult<ObtenerUsuarioPorIdResponse>> ObtenerPorId(int id)
     {
-        try
-        {
-            var resultado = await _mediator.Send(new ObtenerUsuarioPorIdQuery { Id = id });
-            return Ok(resultado);
-        }
-        catch (Exception ex)
-        {
-            return NotFound(new { mensaje = ex.Message });
-        }
+        var resultado = await _mediator.Send(new ObtenerUsuarioPorIdQuery { Id = id });
+        return Ok(resultado);
     }
 
     /// <summary>

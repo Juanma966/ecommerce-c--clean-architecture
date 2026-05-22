@@ -1,6 +1,9 @@
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using MiApp.Application.Features.Ropa.Commands.ActualizarPrenda;
 using MiApp.Application.Features.Ropa.Commands.CrearPrenda;
+using MiApp.Application.Features.Ropa.Commands.EliminarPrenda;
 using MiApp.Application.Features.Ropa.Queries.ObtenerPrendaPorId;
 using MiApp.Application.Features.Ropa.Queries.ObtenerTodasLasPrendas;
 
@@ -17,9 +20,6 @@ public class PrendasController : ControllerBase
         _mediator = mediator;
     }
 
-    /// <summary>
-    /// Obtiene todas las prendas del catálogo.
-    /// </summary>
     [HttpGet]
     public async Task<ActionResult<List<ObtenerTodasLasPrendasResponse>>> ObtenerTodas()
     {
@@ -27,30 +27,35 @@ public class PrendasController : ControllerBase
         return Ok(resultado);
     }
 
-    /// <summary>
-    /// Obtiene una prenda por su ID.
-    /// </summary>
     [HttpGet("{id}")]
     public async Task<ActionResult<ObtenerPrendaPorIdResponse>> ObtenerPorId(int id)
     {
-        try
-        {
-            var resultado = await _mediator.Send(new ObtenerPrendaPorIdQuery { Id = id });
-            return Ok(resultado);
-        }
-        catch (Exception ex)
-        {
-            return NotFound(new { mensaje = ex.Message });
-        }
+        var resultado = await _mediator.Send(new ObtenerPrendaPorIdQuery { Id = id });
+        return Ok(resultado);
     }
 
-    /// <summary>
-    /// Crea una nueva prenda en el catálogo.
-    /// </summary>
+    [Authorize(Roles = "Admin")]
     [HttpPost]
     public async Task<ActionResult<CrearPrendaResponse>> Crear([FromBody] CrearPrendaCommand command)
     {
         var resultado = await _mediator.Send(command);
         return CreatedAtAction(nameof(ObtenerPorId), new { id = resultado.PrendaId }, resultado);
+    }
+
+    [Authorize(Roles = "Admin")]
+    [HttpPut("{id}")]
+    public async Task<ActionResult<ActualizarPrendaResponse>> Actualizar(int id, [FromBody] ActualizarPrendaCommand command)
+    {
+        command.Id = id;
+        var resultado = await _mediator.Send(command);
+        return Ok(resultado);
+    }
+
+    [Authorize(Roles = "Admin")]
+    [HttpDelete("{id}")]
+    public async Task<ActionResult<EliminarPrendaResponse>> Eliminar(int id)
+    {
+        var resultado = await _mediator.Send(new EliminarPrendaCommand { Id = id });
+        return Ok(resultado);
     }
 }

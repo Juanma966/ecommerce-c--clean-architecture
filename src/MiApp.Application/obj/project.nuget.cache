@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MJV7n6/HhJc=",
+  "dgSpecHash": "cic/sb02agg=",
   "success": true,
   "projectFilePath": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Application\\MiApp.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\oro juan\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
+    "C:\\Users\\oro juan\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\oro juan\\.nuget\\packages\\mediatr\\14.1.0\\mediatr.14.1.0.nupkg.sha512",
     "C:\\Users\\oro juan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\oro juan\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

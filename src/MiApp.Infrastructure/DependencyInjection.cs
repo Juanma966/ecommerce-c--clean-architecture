@@ -2,7 +2,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MiApp.Application.Contracts.Persistence;
+using MiApp.Application.Interfaces;
 using MiApp.Infrastructure.Persistence.Contexts;
+using MiApp.Infrastructure.Repositories;
+using MiApp.Infrastructure.Services;
 
 namespace MiApp.Infrastructure;
 
@@ -17,6 +20,12 @@ public static class DependencyInjection
         // Registrar la interfaz del DbContext
         services.AddScoped<IApplicationDbContext>(provider =>
             provider.GetRequiredService<ApplicationDbContext>());
+
+        // Registrar repositorios
+        services.AddScoped<IUserRepository, UserRepository>();
+
+        // Registrar servicios
+        services.AddScoped<ITokenService, JwtTokenService>();
 
         return services;
     }

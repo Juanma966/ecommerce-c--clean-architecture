@@ -11,6 +11,8 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
     public DbSet<Prenda> Prendas { get; set; }
     public DbSet<Cliente> Clientes { get; set; }
     public DbSet<Usuario> Usuarios { get; set; }
+    public DbSet<Pedido> Pedidos { get; set; }
+    public DbSet<PedidoDetalle> PedidoDetalles { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

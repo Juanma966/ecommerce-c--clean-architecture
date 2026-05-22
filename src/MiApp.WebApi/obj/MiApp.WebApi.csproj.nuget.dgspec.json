@@ -47,6 +47,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[14.1.0, )"
@@ -134,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj": {
+    "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj",
         "projectName": "MiApp.Infrastructure",
-        "projectPath": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\oro juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oro juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -199,6 +207,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
@@ -213,6 +225,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -246,8 +261,8 @@
               "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Application\\MiApp.Application.csproj": {
                 "projectPath": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Application\\MiApp.Application.csproj"
               },
-              "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj"
+              "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Infrastructure\\MiApp.Infrastructure.csproj"
               }
             }
           }
@@ -267,6 +282,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.0, )"

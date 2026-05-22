@@ -19,7 +19,7 @@ public class CrearUsuarioCommandHandler : IRequestHandler<CrearUsuarioCommand, C
         {
             NombreUsuario = request.NombreUsuario,
             Email = request.Email,
-            PasswordHash = request.Password, // En un proyecto real, acá se encriptaría
+            PasswordHash = BCrypt.Net.BCrypt.HashPassword(request.Password),
             Rol = request.Rol,
             Activo = true
         };

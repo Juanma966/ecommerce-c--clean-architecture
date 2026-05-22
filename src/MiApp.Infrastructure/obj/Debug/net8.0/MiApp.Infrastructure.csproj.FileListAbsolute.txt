@@ -1,38 +1,20 @@
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.AssemblyInfo.cs
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.deps.json
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.runtimeconfig.json
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.dll
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.pdb
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Application.dll
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Domain.dll
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Application.pdb
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Domain.pdb
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.In.64A5F882.Up2Date
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.dll
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\refint\MiApp.Infrastructure.dll
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.pdb
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.genruntimeconfig.cache
-C:\Users\jluca\Downloads\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\ref\MiApp.Infrastructure.dll
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.deps.json
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.runtimeconfig.json
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.dll
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.pdb
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Application.dll
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Domain.dll
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Application.pdb
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Domain.pdb
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.AssemblyInfo.cs
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.In.64A5F882.Up2Date
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.dll
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\refint\MiApp.Infrastructure.dll
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.pdb
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.genruntimeconfig.cache
-C:\Users\oro juan\desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\ref\MiApp.Infrastructure.dll
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.deps.json
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.runtimeconfig.json
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.dll
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Infrastructure.pdb
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Application.dll
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Domain.dll
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Application.pdb
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\bin\Debug\net8.0\MiApp.Domain.pdb
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.AssemblyInfo.cs
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.sourcelink.json
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.In.64A5F882.Up2Date
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.dll
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\refint\MiApp.Infrastructure.dll
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.pdb
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\MiApp.Infrastructure.genruntimeconfig.cache
+C:\Users\oro juan\Desktop\backend\src\MiApp.Infrastructure\obj\Debug\net8.0\ref\MiApp.Infrastructure.dll

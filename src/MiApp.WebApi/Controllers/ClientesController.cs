@@ -22,15 +22,8 @@ public class ClientesController : ControllerBase
     [HttpGet("{id}")]
     public async Task<ActionResult<ObtenerClientePorIdResponse>> ObtenerPorId(int id)
     {
-        try
-        {
-            var resultado = await _mediator.Send(new ObtenerClientePorIdQuery { Id = id });
-            return Ok(resultado);
-        }
-        catch (Exception ex)
-        {
-            return NotFound(new { mensaje = ex.Message });
-        }
+        var resultado = await _mediator.Send(new ObtenerClientePorIdQuery { Id = id });
+        return Ok(resultado);
     }
 
     /// <summary>

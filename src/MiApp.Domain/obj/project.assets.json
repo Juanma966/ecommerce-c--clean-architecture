@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Domain\\MiApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Domain\\MiApp.Domain.csproj",
       "projectName": "MiApp.Domain",
-      "projectPath": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Domain\\MiApp.Domain.csproj",
+      "projectPath": "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Domain\\MiApp.Domain.csproj",
       "packagesPath": "C:\\Users\\oro juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oro juan\\desktop\\backend\\src\\MiApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\oro juan\\Desktop\\backend\\src\\MiApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oro juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
